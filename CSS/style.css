@@ -55,6 +55,12 @@ h5 {
     margin: 0;
 }
 
+.iconFooter {
+  margin: 0;
+  size-adjust: 20%;
+  padding: none;
+  }
+
 .H2 {
   padding-left: 10%;
   padding-top: 15%;
